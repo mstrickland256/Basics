@@ -1,5 +1,5 @@
 #Location of pdf files
-goodpath <- "/users/shimiaoning/Ukoe"
+goodpath <- "whatever"
 
 files <- list.files(path = goodpath, pattern = "pdf", full.names = TRUE)
 
