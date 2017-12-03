@@ -1,5 +1,5 @@
 library(tm)
-setwd("C:\\Users\\mstri\\Documents\\stage1")
+setwd("whatever")
 #Adjust this as necessary, obviously.
 
 filenames <- list.files(getwd(),pattern="*.txt")
